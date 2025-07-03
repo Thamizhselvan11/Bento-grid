@@ -3,6 +3,7 @@
 ![Design preview for the Bento grid coding challenge](./preview.jpg)
 
 ## Welcome! 👋
+Here is the link - https://thamizhselvan11.github.io/Bento-grid/
 
 Thanks for checking out this front-end coding challenge.
 
